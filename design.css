@@ -115,6 +115,7 @@ input#email {
     font-size: 1.2rem;
     outline: none;
     border-radius: 15px;
+    border: none;
 }
 
 .stu span {
@@ -161,6 +162,7 @@ input {
         background: black;
         color: white;
         font-size: 0.8rem;
+        border: none;
     }
 
 
